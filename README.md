@@ -1,1 +1,1 @@
-# quezon-city-rainfall
+Time-Series Analysis using XGBoost and feature engineering to minimize the Mean Absolute Error (MAE) of a predictor model for rainfall in Quezon City, Philippines, in 2023. This model was built in February 2026 for the Semifinal Round of the Philippines' International Olympiad in Artificial Intelligence (IOAI) team selection process.
